@@ -41,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/khushiyadav03/Recursion/tree/master/1382-balance-a-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/khushiyadav03/Recursion/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/khushiyadav03/Recursion/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
