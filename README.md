@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/khushiyadav03/Recursion/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/khushiyadav03/Recursion/tree/master/0040-combination-sum-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/khushiyadav03/Recursion/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/khushiyadav03/Recursion/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [3719-longest-balanced-subarray-i](https://github.com/khushiyadav03/Recursion/tree/master/3719-longest-balanced-subarray-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/khushiyadav03/Recursion/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/khushiyadav03/Recursion/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/khushiyadav03/Recursion/tree/master/0040-combination-sum-ii) |
 ## Hash Table
 |  |
 | ------- |
