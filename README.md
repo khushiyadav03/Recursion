@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/khushiyadav03/Recursion/tree/master/0022-generate-parentheses) |
 | [0572-subtree-of-another-tree](https://github.com/khushiyadav03/Recursion/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -55,9 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/khushiyadav03/Recursion/tree/master/0022-generate-parentheses) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/khushiyadav03/Recursion/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Matrix
 |  |
 | ------- |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/khushiyadav03/Recursion/tree/master/1277-count-square-submatrices-with-all-ones) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/khushiyadav03/Recursion/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
