@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/khushiyadav03/Recursion/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/khushiyadav03/Recursion/tree/master/0040-combination-sum-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/khushiyadav03/Recursion/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/khushiyadav03/Recursion/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/khushiyadav03/Recursion/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [3719-longest-balanced-subarray-i](https://github.com/khushiyadav03/Recursion/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/khushiyadav03/Recursion/tree/master/0096-unique-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/khushiyadav03/Recursion/tree/master/1382-balance-a-binary-search-tree) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/khushiyadav03/Recursion/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Math
 |  |
 | ------- |
@@ -106,5 +108,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/khushiyadav03/Recursion/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/khushiyadav03/Recursion/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/khushiyadav03/Recursion/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 <!---LeetCode Topics End-->
