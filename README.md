@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/khushiyadav03/Recursion/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/khushiyadav03/Recursion/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [3719-longest-balanced-subarray-i](https://github.com/khushiyadav03/Recursion/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/khushiyadav03/Recursion/tree/master/3721-longest-balanced-subarray-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/khushiyadav03/Recursion/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/khushiyadav03/Recursion/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/khushiyadav03/Recursion/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -91,14 +93,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/khushiyadav03/Recursion/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/khushiyadav03/Recursion/tree/master/3721-longest-balanced-subarray-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/khushiyadav03/Recursion/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/khushiyadav03/Recursion/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/khushiyadav03/Recursion/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/khushiyadav03/Recursion/tree/master/3721-longest-balanced-subarray-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
