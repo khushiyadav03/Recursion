@@ -12,7 +12,6 @@
 class Solution {
 public:
     long long kthLargestLevelSum(TreeNode* root, int k) {
-        // hum isme level vise traverse karte jayenge nd hum har level ka sum ik array me push karte jayenge then sort karke kth element print kara denge 
         if(!root) return -1;
         queue<TreeNode*> q;
         q.push(root);
