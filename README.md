@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/khushiyadav03/Recursion/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/khushiyadav03/Recursion/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/khushiyadav03/Recursion/tree/master/0078-subsets) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/khushiyadav03/Recursion/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/khushiyadav03/Recursion/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/khushiyadav03/Recursion/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/khushiyadav03/Recursion/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/khushiyadav03/Recursion/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/khushiyadav03/Recursion/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/khushiyadav03/Recursion/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/khushiyadav03/Recursion/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/khushiyadav03/Recursion/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
