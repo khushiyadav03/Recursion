@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/khushiyadav03/Recursion/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/khushiyadav03/Recursion/tree/master/0022-generate-parentheses) |
 | [0572-subtree-of-another-tree](https://github.com/khushiyadav03/Recursion/tree/master/0572-subtree-of-another-tree) |
+| [3713-longest-balanced-substring-i](https://github.com/khushiyadav03/Recursion/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khushiyadav03/Recursion/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/khushiyadav03/Recursion/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/khushiyadav03/Recursion/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/khushiyadav03/Recursion/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/khushiyadav03/Recursion/tree/master/3721-longest-balanced-subarray-ii) |
 ## Segment Tree
@@ -145,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khushiyadav03/Recursion/tree/master/0003-longest-substring-without-repeating-characters) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/khushiyadav03/Recursion/tree/master/3713-longest-balanced-substring-i) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/khushiyadav03/Recursion/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
