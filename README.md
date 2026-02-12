@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/khushiyadav03/Recursion/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/khushiyadav03/Recursion/tree/master/0040-combination-sum-ii) |
+| [0066-plus-one](https://github.com/khushiyadav03/Recursion/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/khushiyadav03/Recursion/tree/master/0078-subsets) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/khushiyadav03/Recursion/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/khushiyadav03/Recursion/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/khushiyadav03/Recursion/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/khushiyadav03/Recursion/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/khushiyadav03/Recursion/tree/master/0096-unique-binary-search-trees) |
 | [1922-count-good-numbers](https://github.com/khushiyadav03/Recursion/tree/master/1922-count-good-numbers) |
 ## Recursion
