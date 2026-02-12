@@ -8,7 +8,7 @@ public:
             int right_sum = 0;
 
             for(int j = 0; j < i; j++)
-                left_sum += nums[j];
+                left_sum += nums[j]; 
 
             for(int j = i + 1; j < n; j++)
                 right_sum += nums[j];
