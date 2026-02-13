@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/khushiyadav03/Recursion/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/khushiyadav03/Recursion/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/khushiyadav03/Recursion/tree/master/0216-combination-sum-iii) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/khushiyadav03/Recursion/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/khushiyadav03/Recursion/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/khushiyadav03/Recursion/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1672-richest-customer-wealth](https://github.com/khushiyadav03/Recursion/tree/master/1672-richest-customer-wealth) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1262-greatest-sum-divisible-by-three](https://github.com/khushiyadav03/Recursion/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/khushiyadav03/Recursion/tree/master/1382-balance-a-binary-search-tree) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/khushiyadav03/Recursion/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Divide and Conquer
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/khushiyadav03/Recursion/tree/master/0022-generate-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/khushiyadav03/Recursion/tree/master/0096-unique-binary-search-trees) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/khushiyadav03/Recursion/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/khushiyadav03/Recursion/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Matrix
 |  |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1262-greatest-sum-divisible-by-three](https://github.com/khushiyadav03/Recursion/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/khushiyadav03/Recursion/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/khushiyadav03/Recursion/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Two Pointers
