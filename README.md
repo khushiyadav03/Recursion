@@ -166,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/khushiyadav03/Recursion/tree/master/3713-longest-balanced-substring-i) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/khushiyadav03/Recursion/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
