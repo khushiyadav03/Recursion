@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/khushiyadav03/Recursion/tree/master/0022-generate-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/khushiyadav03/Recursion/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/khushiyadav03/Recursion/tree/master/0131-palindrome-partitioning) |
+| [0799-champagne-tower](https://github.com/khushiyadav03/Recursion/tree/master/0799-champagne-tower) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/khushiyadav03/Recursion/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/khushiyadav03/Recursion/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Matrix
