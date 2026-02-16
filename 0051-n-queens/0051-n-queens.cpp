@@ -16,7 +16,7 @@ public:
 
         // upper right diagonal
         int r2 = row -1, c2 = col+1;
-        while(r2 >= 0 && c2 >= 0){
+        while(r2 >= 0 && c2 < board.size()){
             if(board[r2][c2] == 'Q') return false;
             r2--;
             c2++;
