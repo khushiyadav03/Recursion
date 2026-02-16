@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/khushiyadav03/Recursion/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/khushiyadav03/Recursion/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/khushiyadav03/Recursion/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/khushiyadav03/Recursion/tree/master/3721-longest-balanced-subarray-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/khushiyadav03/Recursion/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/khushiyadav03/Recursion/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/khushiyadav03/Recursion/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/khushiyadav03/Recursion/tree/master/0190-reverse-bits) |
 ## Sliding Window
 |  |
 | ------- |
