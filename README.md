@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/khushiyadav03/Recursion/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/khushiyadav03/Recursion/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/khushiyadav03/Recursion/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/khushiyadav03/Recursion/tree/master/0401-binary-watch) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/khushiyadav03/Recursion/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/khushiyadav03/Recursion/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/khushiyadav03/Recursion/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/khushiyadav03/Recursion/tree/master/0401-binary-watch) |
 ## Sliding Window
 |  |
 | ------- |
