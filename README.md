@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/khushiyadav03/Recursion/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/khushiyadav03/Recursion/tree/master/0205-isomorphic-strings) |
 | [0572-subtree-of-another-tree](https://github.com/khushiyadav03/Recursion/tree/master/0572-subtree-of-another-tree) |
+| [0696-count-binary-substrings](https://github.com/khushiyadav03/Recursion/tree/master/0696-count-binary-substrings) |
 | [3713-longest-balanced-substring-i](https://github.com/khushiyadav03/Recursion/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Tree
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/khushiyadav03/Recursion/tree/master/0696-count-binary-substrings) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/khushiyadav03/Recursion/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Bit Manipulation
 |  |
