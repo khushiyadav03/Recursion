@@ -217,4 +217,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/khushiyadav03/Recursion/tree/master/0139-word-break) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/khushiyadav03/Recursion/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/khushiyadav03/Recursion/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/khushiyadav03/Recursion/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
