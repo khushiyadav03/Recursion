@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/khushiyadav03/Recursion/tree/master/0205-isomorphic-strings) |
 | [0572-subtree-of-another-tree](https://github.com/khushiyadav03/Recursion/tree/master/0572-subtree-of-another-tree) |
 | [0696-count-binary-substrings](https://github.com/khushiyadav03/Recursion/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/khushiyadav03/Recursion/tree/master/0761-special-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/khushiyadav03/Recursion/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Tree
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/khushiyadav03/Recursion/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/khushiyadav03/Recursion/tree/master/0191-number-of-1-bits) |
+| [0761-special-binary-string](https://github.com/khushiyadav03/Recursion/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/khushiyadav03/Recursion/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/khushiyadav03/Recursion/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/khushiyadav03/Recursion/tree/master/3721-longest-balanced-subarray-ii) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/khushiyadav03/Recursion/tree/master/0268-missing-number) |
+| [0761-special-binary-string](https://github.com/khushiyadav03/Recursion/tree/master/0761-special-binary-string) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/khushiyadav03/Recursion/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/khushiyadav03/Recursion/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/khushiyadav03/Recursion/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
