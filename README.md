@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/khushiyadav03/Recursion/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/khushiyadav03/Recursion/tree/master/0191-number-of-1-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/khushiyadav03/Recursion/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/khushiyadav03/Recursion/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/khushiyadav03/Recursion/tree/master/3721-longest-balanced-subarray-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/khushiyadav03/Recursion/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/khushiyadav03/Recursion/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/khushiyadav03/Recursion/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/khushiyadav03/Recursion/tree/master/0191-number-of-1-bits) |
 | [0401-binary-watch](https://github.com/khushiyadav03/Recursion/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/khushiyadav03/Recursion/tree/master/0693-binary-number-with-alternating-bits) |
 ## Sliding Window
