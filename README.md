@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/khushiyadav03/Recursion/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/khushiyadav03/Recursion/tree/master/0733-flood-fill) |
 | [0993-cousins-in-binary-tree](https://github.com/khushiyadav03/Recursion/tree/master/0993-cousins-in-binary-tree) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/khushiyadav03/Recursion/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/khushiyadav03/Recursion/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/khushiyadav03/Recursion/tree/master/1382-balance-a-binary-search-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/khushiyadav03/Recursion/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/khushiyadav03/Recursion/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/khushiyadav03/Recursion/tree/master/0733-flood-fill) |
 | [0993-cousins-in-binary-tree](https://github.com/khushiyadav03/Recursion/tree/master/0993-cousins-in-binary-tree) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/khushiyadav03/Recursion/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/khushiyadav03/Recursion/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/khushiyadav03/Recursion/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/khushiyadav03/Recursion/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/khushiyadav03/Recursion/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1791-find-center-of-star-graph](https://github.com/khushiyadav03/Recursion/tree/master/1791-find-center-of-star-graph) |
 ## Simulation
 |  |
