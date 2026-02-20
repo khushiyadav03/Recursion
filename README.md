@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/khushiyadav03/Recursion/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/khushiyadav03/Recursion/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/khushiyadav03/Recursion/tree/master/0216-combination-sum-iii) |
+| [0268-missing-number](https://github.com/khushiyadav03/Recursion/tree/master/0268-missing-number) |
 | [0733-flood-fill](https://github.com/khushiyadav03/Recursion/tree/master/0733-flood-fill) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/khushiyadav03/Recursion/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/khushiyadav03/Recursion/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/khushiyadav03/Recursion/tree/master/0096-unique-binary-search-trees) |
+| [0268-missing-number](https://github.com/khushiyadav03/Recursion/tree/master/0268-missing-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/khushiyadav03/Recursion/tree/master/1382-balance-a-binary-search-tree) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/khushiyadav03/Recursion/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Math
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/khushiyadav03/Recursion/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/khushiyadav03/Recursion/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/khushiyadav03/Recursion/tree/master/0096-unique-binary-search-trees) |
+| [0268-missing-number](https://github.com/khushiyadav03/Recursion/tree/master/0268-missing-number) |
 | [1922-count-good-numbers](https://github.com/khushiyadav03/Recursion/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khushiyadav03/Recursion/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/khushiyadav03/Recursion/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/khushiyadav03/Recursion/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/khushiyadav03/Recursion/tree/master/0268-missing-number) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/khushiyadav03/Recursion/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/khushiyadav03/Recursion/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/khushiyadav03/Recursion/tree/master/3719-longest-balanced-subarray-i) |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/khushiyadav03/Recursion/tree/master/0268-missing-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/khushiyadav03/Recursion/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/khushiyadav03/Recursion/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/khushiyadav03/Recursion/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -187,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/khushiyadav03/Recursion/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/khushiyadav03/Recursion/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/khushiyadav03/Recursion/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/khushiyadav03/Recursion/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/khushiyadav03/Recursion/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/khushiyadav03/Recursion/tree/master/0693-binary-number-with-alternating-bits) |
 ## Sliding Window
