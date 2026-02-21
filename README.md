@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/khushiyadav03/Recursion/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/khushiyadav03/Recursion/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/khushiyadav03/Recursion/tree/master/0205-isomorphic-strings) |
+| [0282-expression-add-operators](https://github.com/khushiyadav03/Recursion/tree/master/0282-expression-add-operators) |
 | [0572-subtree-of-another-tree](https://github.com/khushiyadav03/Recursion/tree/master/0572-subtree-of-another-tree) |
 | [0696-count-binary-substrings](https://github.com/khushiyadav03/Recursion/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/khushiyadav03/Recursion/tree/master/0761-special-binary-string) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/khushiyadav03/Recursion/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/khushiyadav03/Recursion/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/khushiyadav03/Recursion/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/khushiyadav03/Recursion/tree/master/0282-expression-add-operators) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/khushiyadav03/Recursion/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1922-count-good-numbers](https://github.com/khushiyadav03/Recursion/tree/master/1922-count-good-numbers) |
 ## Recursion
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/khushiyadav03/Recursion/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/khushiyadav03/Recursion/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/khushiyadav03/Recursion/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/khushiyadav03/Recursion/tree/master/0282-expression-add-operators) |
 | [0401-binary-watch](https://github.com/khushiyadav03/Recursion/tree/master/0401-binary-watch) |
 ## Hash Table
 |  |
